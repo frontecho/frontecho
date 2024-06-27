@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @frontecho
 - 👀 To code, to seek
-- 🌱 I’m currently learning Cpp OS
-- 📫 How to reach me ... Email me@mail.frontecho.top
+- 🌱 I’m currently learning OS
+- 📫 How to reach me ... Email me@frtecho.com
