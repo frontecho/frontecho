@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @frontecho
 - 👀 To code, to seek
 - 🌱 I’m currently learning OS
-- 📫 How to reach me ... Email me@frtecho.com
+- 📫 How to reach me ... Email me@frtecho.com or hjjfront@outlook.com
